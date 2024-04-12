@@ -1,0 +1,10 @@
+The space complexity of an iterative linear search algorithm in an array of size 
+�
+n is 
+�
+(
+1
+)
+O(1), which is constant space complexity.
+
+Therefore, the space complexity remains constant.

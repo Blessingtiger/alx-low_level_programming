@@ -1,0 +1,8 @@
+The space complexity of a binary search algorithm in an array of size 
+�
+n is 
+�
+(
+1
+)
+O(1), which is constant space complexity.

@@ -1,0 +1,14 @@
+It's O(n). You never allocate more than the space required to hold n ints. The reason is precisely because of what you noted. You free the memory in each iteration. Memory, unlike time, can be recycled.
+
+Therefore, the total space required by the function is proportional to the product of 
+�
+n and 
+�
+m, resulting in a space complexity of 
+�
+(
+�
+×
+�
+)
+O(n×m).

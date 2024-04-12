@@ -1,0 +1,3 @@
+Binary Search has O(logN) as the Worst Case Time Complexity.
+
+Binary search algorithms are O(log n) in time complexity. O(1) would be the best-case complexity when the central index matches the desired value. 
